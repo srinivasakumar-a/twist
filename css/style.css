@@ -18,7 +18,7 @@ body {
   line-height: 1.5;
   color: #666666;
   color: #7f7f7f;
-  background: #fff;     
+  background: #fff;
   height: 100%;
   position: relative;
 }
@@ -107,8 +107,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 3px;
   bottom: -17px;
   left: 0;
-  /* background-color: rgba(255, 255, 255, 0.5); */
-  background-color: rgba(236, 247, 145, 1);        /* TLM Yellow */
+  background-color: rgba(255, 255, 255, 0.5);
   visibility: hidden;
   -webkit-transform: scaleX(0);
   -moz-transform: scaleX(0);
