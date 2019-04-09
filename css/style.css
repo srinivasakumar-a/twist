@@ -7,7 +7,7 @@
 }
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *	Edit this section
 *
 * ======================================================= */
@@ -18,7 +18,8 @@ body {
   line-height: 1.5;
   color: #666666;
   color: #7f7f7f;
-  background: #fff;
+  /* background: #fff;      */
+  background: #ecf791
   height: 100%;
   position: relative;
 }
