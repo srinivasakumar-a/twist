@@ -215,7 +215,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   padding-left: 28px;
   color: #535659;
-  text-transform: uppercase;
+/*  text-transform: uppercase;     (commented by sriniak 20200424)   */ 
   letter-spacing: 3px;
   position: relative;
 }
