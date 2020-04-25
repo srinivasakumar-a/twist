@@ -211,13 +211,13 @@ h1, h2, h3, h4, h5, h6 {
 #fh5co-header .navbar-brand {
   float: left;
   display: block;
-  font-size: 24px;
-  font-weight: 700;
+  font-size: 21px;
+  font-weight: 500;
   padding-left: 28px;
   color: #535659;
 /*  text-transform: uppercase;     (commented by sriniak 20200424)   */
-  text-transform: none;    /* (commented by sriniak 20200424)   */ 
-  letter-spacing: 3px;
+  text-transform: none;    /* (commented by sriniak 20200424)   */
+  letter-spacing: 1px;
   position: relative;
 }
 #fh5co-header .navbar-brand:after, #fh5co-header .navbar-brand:before {
