@@ -18,8 +18,8 @@ body {
   line-height: 1.5;
   color: #666666;
   color: #7f7f7f;
-/*  background: #fff;                  Commented by sriniak (20200424)*/
-  background: #ecf791;              /* Commented by sriniak (20200424)*/
+  background: #fff;                  /*Commented by sriniak (20200424)*/
+/*  background: #ecf791;              /* Commented by sriniak (20200424)*/
   height: 100%;
   position: relative;
 }
